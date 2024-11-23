@@ -1,0 +1,13 @@
+[{
+        "test_id": 1,
+        "description": "Valid network behavior test",
+        "input": { "network_activity": "normal" },
+        "expected_output": "No anomaly detected."
+    },
+    {
+        "test_id": 2,
+        "description": "Phishing email test",
+        "input": { "email_content": "Suspicious content detected" },
+        "expected_output": "Potential phishing attack detected."
+    }
+]
