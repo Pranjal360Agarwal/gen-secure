@@ -66,18 +66,18 @@ A powerful AI-driven application designed to tackle modern cybersecurity challen
    cd cybersecurity-ai-demo
 
 2. Install required dependencies:
-
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   cd cybersecurity-ai-demo
 
 3. Run the application:
+   ```bash
+   python main.py
 
-```bash
-python cybersecurity_demo.py
 
 ---
 
-##Future Enhancements 🔮
+## Future Enhancements 🔮
 
 1. Advanced AI Models: Integrate machine learning for enhanced detection accuracy.
 2. Dark Web Monitoring: Simulate scanning for leaked user data.
